@@ -37,4 +37,10 @@ _______________________________________
 # 🤖 Automod System
 *Automatically filter chat for bad words and links.*
 
+`◼` `automod enable`  | Turns on chat filtering. | `&automod enable`
 
+`◼` `automod punishment` | Set action for offenders (Mute/Kick/Ban). | `&automod punishment mute`
+
+`◼` `automod logging` | Set a channel to log automod actions. | `&automod logging <#channel>`
+
+`◼` `automod ignore` | Ignore a channel or role from automod. | `&automod ignore channel add <#channel>`

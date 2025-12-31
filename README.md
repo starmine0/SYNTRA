@@ -21,3 +21,11 @@ Protect your server from unauthorized raids and nukes. The bot automatically ban
 `◼` `antinuke config` | Shows current security settings and limits. | `&antinuke config`
 
 `◼` `limit set` | Set the max actions allowed per minute. | `&limit set <module> <number>`
+
+`◼` `wl` | Whitelist a user (Trust them to bypass checks). | `&wl (Opens Menu)`
+
+`◼` `unwl` | Remove a user from the whitelist. | `&unwl <@user>`
+
+`◼` `whitelisted` | View all whitelisted users. | `&whitelisted`
+
+`◼` `extraowner` | Add Bot Antinuke Security Owner Manage Antinuke Command. | `&extraowner add <@user>`

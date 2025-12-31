@@ -8,3 +8,16 @@ Permissions: **SYNTRA** requires Administrator permissions to function correctly
 **Prefix:** `&`
 
  _______________________________________
+
+# 🛡️ Security (Antinuke)
+Protect your server from unauthorized raids and nukes. The bot automatically bans users who exceed set limits
+
+# Command: 
+
+`◼` `antinuke enable` | Enables the security system. | `&antinuke enable`
+
+`◼` `antinuke disable` | Disables the security system. | `&antinuke disable`
+
+`◼` `antinuke config` | Shows current security settings and limits. | `&antinuke config`
+
+`◼` `limit set` | Set the max actions allowed per minute. | `&limit set <module> <number>`

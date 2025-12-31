@@ -12,7 +12,6 @@ Permissions: **SYNTRA** requires Administrator permissions to function correctly
 # 🛡️ Security (Antinuke)
 Protect your server from unauthorized raids and nukes. The bot automatically bans users who exceed set limits
 
-# Command: 
 
 `◼` `antinuke enable` | Enables the security system. | `&antinuke enable`
 
@@ -29,3 +28,13 @@ Protect your server from unauthorized raids and nukes. The bot automatically ban
 `◼` `whitelisted` | View all whitelisted users. | `&whitelisted`
 
 `◼` `extraowner` | Add Bot Antinuke Security Owner Manage Antinuke Command. | `&extraowner add <@user>`
+
+**Security Modules Monitored:**
+
+`Ban | Kick | Channel Create/Delete | Role Create/Delete | Bot Add`
+_______________________________________
+
+# 🤖 Automod System
+*Automatically filter chat for bad words and links.*
+
+
